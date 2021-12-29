@@ -9,7 +9,6 @@
 
 :books: Estudando HTML / CSS / JS.
 
-:outbox_tray: Objetivos: criar um novo projeto e encontrar um novo emprego.
 
 <div>
   <a href="https://github.com/NelsoonMendees">
