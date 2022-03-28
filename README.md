@@ -3,9 +3,8 @@
  
 
 ## I'm Nelson!
-:office_worker: Aliare
 
-:computer: Estudante de Análise e Desenvolvimento de Sistemas!
+:computer: Estudante de Análise e Desenvolvimento de Sistemas.
 
 :house_with_garden: Goiânia - GO.
 
