@@ -8,7 +8,7 @@
 
 :house_with_garden: Goiânia - GO.
 
-:books: Estudando Cypress / JS.
+:books: Estudando Cypress / ReactJs.
 
 
 <div>
