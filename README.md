@@ -6,7 +6,7 @@
 
 :computer: Estudante de Análise e Desenvolvimento de Sistemas.
 
-:computer: QA Enginer - Hub Conexa.
+:computer: QA Engineer - Hub Conexa.
 
 :house_with_garden: Goiânia - GO.
 
