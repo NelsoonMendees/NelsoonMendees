@@ -4,14 +4,11 @@
 
 ## I'm Nelson!
 
-:computer: Estudante de Análise e Desenvolvimento de Sistemas.
+:computer: Análise e Desenvolvimento de Sistemas.
 
 :computer: QA Engineer - Hub Conexa.
 
 :house_with_garden: Goiânia - GO.
-
-:books: Estudando Cypress / Senelium / C#.
-
 
 <div>
   <a href="https://github.com/NelsoonMendees">
