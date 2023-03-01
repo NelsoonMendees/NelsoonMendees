@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 Análise e Desenvolvimento de Sistemas<br>
-QA Engineer - @HubConexa<br>
+QA Engineer<br>
 Goiânia - GO<br>
 
 
