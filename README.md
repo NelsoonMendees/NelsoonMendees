@@ -10,7 +10,7 @@ Como analista de QA, posso trabalhar com estratégias de teste, testes E2E e API
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nelsongomees" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://linkedin.com/in/nelsongomees" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="nofollow"></a>  
 <div> 
 <br>
 <div align="center" width="100%">
