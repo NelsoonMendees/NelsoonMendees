@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Nelson Mendes</h1>
 <h3 align="center">Bem vindo ao meu Github 👋</h3>
 
-<p align="left"> Graduando em análise e desenvolvimento de sistemas, atualmente especializando em Teste de Software.
+<p align="left"> Graduado em Análise e Desenvolvimento de Sistemas, atualmente especializando em Teste de Software.
 
-Como analista de QA, posso trabalhar com estratégias de teste, testes E2E e API com Cypress.
+Como analista de QA, posso trabalhar com estratégias de testes, testes E2E e API com Cypress.
 
 - 👨🏽‍💻 Atualmente atuo como Analista de Testes Pleno - Prodata Informatica.
 - 📚 Estudando testes de API com Cypress e performance com K6.
