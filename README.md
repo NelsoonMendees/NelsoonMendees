@@ -10,25 +10,22 @@ Minhas principais habilidades incluem:</h5>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nelsongomees" target="_blank" rel="nofollow"><img height="40" width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/linkedin.svg" target="_blank" rel="nofollow"></a>  
+<a href="https://linkedin.com/in/nelsongomees" target="_blank" rel="nofollow"><img height="100" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="nofollow"></a>  
 <br>
 
 # 💻 Tech Stack:
 
 <div align="center" style="display: inline_block">
-<img align="center" alt="-Postman" height="40" width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" /> 
-<img align="center" alt="-Cypress" height="40" width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/cypress-dark.svg" />     
-<img align="center" alt="-Playwright" height="40" width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/playwright-dark.svg" />
-<img align="center" alt="-K6" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" />
-<img align="center" alt="-Git" height="40" width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" />
-<img align="center" alt="-Github" height="40" width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" />
-<img align="center" alt="-Js" height="40" width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg">
-<img align="center" alt="-HTML" height="40" width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg">
-<img align="center" alt="-CSS" height="40" width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg">
-<img align="center" alt="-Azure" height="40" width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/azure-dark.svg" />
+<img align="center" alt="-Postman" height="130" width="110" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
+<img align="center" alt="-Cypress" height="130" width="130" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />     
+<img align="center" alt="-Git" height="90" width="90" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img align="center" alt="-Github" height="165" width="150" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img align="center" alt="-Js" height="165" width="165" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="center" alt="-HTML" height="105" width="105" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="-CSS" height="70" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="-Azure" height="155" width="155" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+</div></br>
 </div></br>
 <div align="center" width="100%">
   <img width="70%" src="https://streak-stats.demolab.com/?user=NelsoonMendees&theme=chartreuse-dark&hide_border=true" alt="NelsoonMendees" />
-  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=NelsoonMendees&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="NelsoonMendees" />  
-  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NelsoonMendees&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="NelsoonMendees" />
 </div>
