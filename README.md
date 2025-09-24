@@ -12,7 +12,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**, busco sempre **automatiza
   <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/-Cypress-0055FF?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" /></a>
   <a href="https://playwright.dev/"><img src="https://img.shields.io/badge/-Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" /></a>
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
-  <a href="https://github.com/NelsoonMendeees"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/NelsoonMendees"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://azure.microsoft.com/services/devops/"><img src="https://img.shields.io/badge/-Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" /></a>
   <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
   <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
